@@ -8,3 +8,9 @@ Repositorio de parte de un representante del equipo 07, destinado para la presen
 - **sel.py** : Archivo que contiene funciones relacionadas al proceso de ensamblaje de matrices locales y globales, y de resolución al SEL que se encuentra trabajando.
 - **math_tools.py** : Archivo que contiene funciones relacionadas al trabajo de construcción y operaciones con matrices y vectores.
 - **problem.msh** : Archivo que contiene toda la información/datos con los que el programa trabaja (Parámetros, nodos, elementos, condiciones, etc).
+
+## Capturas
+
+![ScreenShotOne](https://i.imgur.com/ue1nvKj.png)
+
+![ScreenShotTwo](https://i.imgur.com/y8dVkty.png)
