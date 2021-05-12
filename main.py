@@ -11,6 +11,12 @@ def main() :
     #Se crean variables tipo List() que harán referencia a las matrices locales para la K y la b
     localKs, localbs = list(), list()
 
+    print(''' IMPLEMENTACIÓN DEL MÉTODO DE LOS ELEMENTOS FINITOS
+            - TRANSFERENCIA DE CALOR
+            - 1 DIMENSIÓN
+            - FUNCIONES DE FORMA LINEALES
+            - PESOS DE GALERKIN ''')
+
     #Se prepara la malla 'm' con toda la información necesaria para su utilización
     leerMallayCondiciones(m)
 
